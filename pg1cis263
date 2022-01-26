@@ -12,4 +12,21 @@
 
 <header> N&A Project</header>
 
+<div>
+
+    <nav>
+<ul>
+    <li><a href=pg1cis263.html>Home</a>  </li>
+    <li><a href=>How To</a>  </li>
+    <li><a href=>Why</a>  </li>
+    <li><a href=>About</a></li>
+</ul>
+</nav>
+</div>
+
 <p> Final project for CIS 263 for Mr. Carlos Rodriguez<p>
+
+    <body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse consequuntur sit libero iure exercitationem maiores excepturi reiciendis quibusdam, repellendus quos minus molestias molestiae unde fuga enim quam, corporis vitae officiis.</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Libero, deleniti vitae fugiat corporis nesciunt explicabo voluptatem. Porro id, quam aliquam est officia non, maiores illo, dicta aperiam quas quod fugiat.</p>
+    </body>
