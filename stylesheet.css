@@ -14,6 +14,15 @@ body {
   padding: 1.325;
   width: 42em; }
 
+  .box {
+    background: white;
+    width: 50rem;
+    padding: 3rem;
+    margin: 1rem auto;
+    border-radius: 0.5rem;
+}
+
+
 h1, h2, h3, h4, h5, th, h6 {
   hyphens: auto;
   overflow-wrap: break-word;
