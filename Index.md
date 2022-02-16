@@ -1,4 +1,4 @@
-# mr.r263
+index.html
 Nathan Russell and Adrian Borja proejct for cis 263
 pg1 is the home page
 pg2 will be where the java program will be accessible
