@@ -22,6 +22,34 @@ body {
     border-radius: 0.5rem;
 }
 
+nav li {
+  display: inline;
+  margin: 0 1em;
+}
+
+nav {
+  font-family: "Nunito", sans-serif;
+  background-color: #212121;
+  color: rgb(158, 29, 29);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+nav header {
+  padding: 9px;
+  display: inline;
+}
+
+nav header a {
+  text-decoration: none;
+  color: rgb(151, 37, 37);
+}
+
 
 h1, h2, h3, h4, h5, th, h6 {
   hyphens: auto;
@@ -80,14 +108,6 @@ b, strong {
 i, em {
   font-style: italic; }
 
-ul, ol {
-  padding-left: 2.65em; }
-  ul ul, ul ol, ol ul, ol ol {
-    padding-bottom: 0;
-    padding-top: 0.6625em; }
-
-li {
-  margin-bottom: 0.6625em; }
 
 blockquote {
   border-left: 1px solid #919191;
